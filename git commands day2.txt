@@ -1,0 +1,17 @@
+git commands day 1
+ To download the git client tool 
+  -https://git-scm.com/download/win
+ 
+1) git -- version
+
+2) The command used to clone the repository - git clone "repository link"
+
+3) -git add all
+
+4) -git push "repo_link"
+
+5) -git pull "repo_link" 
+
+6) -git init
+
+7) -git status - to know the status of the git operations

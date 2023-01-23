@@ -1,0 +1,11 @@
+to list the file/folders
+-ls
+
+to create or make directory
+-mkdir 
+
+change directory 
+-cd "directory"
+
+to install git on linux
+-yum install linu

@@ -1,0 +1,19 @@
+git linux commands day 2 creating ec2 
+ 
+ 1)To install the root user (Administrator) - sudo su 
+ 
+ 2)To installing git (40mb , 9.3mb file) - yum install
+    y/n - type y to intsall
+	
+ 3) To check version - --version (2.38.1)
+  
+ 4) To show the list of folders - ls
+
+ 5) To know Present Working Directory - pwd
+
+ 6) To create or make a directory - mkdir
+
+ 7) To clone the file from github - git clone "project1"
+
+ 8) To find the directory file - cd followed by followed by folder name - cd "foldernname"
+ 
