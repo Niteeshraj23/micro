@@ -20,6 +20,6 @@ and appended to the current working HEAD
 
 https://www.golinuxcloud.com/git-cherry-pick-examples/
 
-rebasen is the process of moving or combining a sequence of commits to a new base commit. from destination to updated branch
+rebase is the process of moving or combining a sequence of commits to a new base commit. from destination to updated branch
 -git rebase "branch name"
 
