@@ -8,6 +8,31 @@ change directory
 -cd "directory"
 
 to install git on linux
--yum install linu
+-yum install linux
 
-123
+to login to root
+-sudo su
+
+to update the packages
+-yum update
+
+to clear the screen
+-clear
+
+--------------------------maven installation in Amazon linux-----------------------------------------------------
+
+first we need to install java since Maven has a dependency on Java
+
+-java --version
+
+to install java
+-yum install java-11
+
+to check java version
+-java --version
+
+to install maven
+-yum install maven
+
+to check maven version
+-mvn --version
