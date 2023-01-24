@@ -7,6 +7,15 @@ to create or make directory
 change directory 
 -cd "directory"
 
+to check present working directory
+- pwd
+
+to open the file 
+- cat "filename"
+
+to delete/remove the file
+- rm  "filename"
+
 to install git on linux
 -yum install linux
 
@@ -36,3 +45,4 @@ to install maven
 
 to check maven version
 -mvn --version
+
