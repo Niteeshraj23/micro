@@ -14,4 +14,12 @@ to exit the log
 to revert the commited 
 - git revert "commitid"
 
+git cherry-pick is a powerfull command that enables arbitrary Git commits to be picked by reference 
+and appended to the current working HEAD 
+- git cherry-pick "Hash value" 
+
+https://www.golinuxcloud.com/git-cherry-pick-examples/
+
+rebasin is the process of moving or combining a sequence of commits to a new base commit. from destination to updated branch
+-git rebase "branch name"
 
